@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "price": 30,
+    "name": "GUCCI G8850U",
+    "pic":"./img/g1.jpg",
+    "url": "./img/v1.png",
+    "desc": "Elegant light pink square lenses with a subtle mother-of-pearl tip, perfect for casual chic."
+  },
+  {
+    "id": 2,
+    "price": 50,
+    "name": "GUCCI G8759H",
+    "pic":"./img/g2.jpg",
+    "url": "./img/v2.png",
+    "desc": "Stylish oversized pink lenses with thin golden arms, designed for comfort and casual glam everyday."
+  },
+  {
+    "id": 3,
+    "price": 30,
+    "name": "DIOR D6700HQ",
+    "pic":"./img/g3.jpg",
+    "url": "./img/v3.png",
+    "desc": "Light pink angular lenses framed in sleek metal, perfect for modern fashion lovers seeking style daily."
+  },
+  {
+    "id": 4,
+    "price": 70,
+    "name": "DIOR D6005U",
+    "pic":"./img/g4.jpg",
+    "url": "./img/v4.png",
+    "desc": "Classic square pink lenses finished with pearl-accented tips, ideal for elegant outings and sunny events."
+  },
+  {
+    "id": 5,
+    "price": 40,
+    "name": "PRADA P8750",
+    "pic":"./img/g5.jpg",
+    "url": "./img/v5.png",
+    "desc": "Soft pink gradient lenses on minimalistic frames, combining style and sophistication for every occasion."
+  },
+  {
+    "id": 6,
+    "price": 60,
+    "name": "PRADA P9700",
+    "pic":"./img/g6.jpg",
+    "url": "./img/v6.png",
+    "desc": "Bold pink lenses with shiny golden arms, perfect for standing out in fashion and glamorous events daily."
+  },
+  {
+    "id": 7,
+    "price": 80,
+    "name": "FENDI F8750",
+    "pic":"./img/g7.jpg",
+    "url": "./img/v7.png",
+    "desc": "Fashion-forward pink square lenses with subtle gradient, adding depth and elegance to modern outfit styles."
+  },
+  {
+    "id": 8,
+    "price": 100,
+    "name": "FENDI F8500",
+    "pic":"./img/g8.jpg",
+    "url": "./img/v8.png",
+    "desc": "Luxurious pink lenses framed in shiny acetate, designed for high-fashion looks and confident stylish people."
+  },
+  {
+    "id": 9,
+    "price": 60,
+    "name": "FENDI F4300",
+    "pic":"./img/g9.jpg",
+    "url": "./img/v9.png",
+    "desc": "Chic square pink lenses with unique reflective coating, perfect for sunny days and trendy casual outings."
+  }
+]
